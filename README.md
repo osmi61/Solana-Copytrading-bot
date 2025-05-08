@@ -8,9 +8,7 @@ If you want, I can offer full version and can develop customized advanced projec
 
 
 ### Contact information:
-Whatspp: https://wa.me/13137423660
-Telegram: https://t.me/DevCutup
-Twitter: https://twitter.com/januscutup
+Telegram: https://t.me/kei4650
 
 
 
