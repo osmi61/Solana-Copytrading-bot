@@ -4,12 +4,6 @@ This is copy trading bot running on several solana dex platform - raydium, meteo
 This is basic version, not full version.
 In this bot, it track the profitable bots fast and copytrack it.
 If you want, I can offer full version and can develop customized advanced project[Advantage: GRPC for tx fetching, direct dex swap].
-    
-
-
-### Contact information:
-Telegram: https://t.me/kei4650
-
 
 
 ### What can you do in this project
